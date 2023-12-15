@@ -9,7 +9,7 @@
 
 <body>
 
-  <h1>👋 Hello, I'm [Karthikeyan]</h1>
+  <h1>👋 Hello, I'm Karthikeyan</h1>
 
   <p>I am an Application Production Support Analyst with a strong passion for learning and diving into the world of data analytics. I enjoy leveraging data to gain insights and make informed decisions.</p>
 
