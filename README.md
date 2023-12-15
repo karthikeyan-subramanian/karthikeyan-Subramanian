@@ -1,22 +1,52 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate Production support analyst</h3>
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](karthikeyan-subramanian.io)
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyan-subramanian&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeyan-subramanian" /> </p>
+</head>
 
-- 🌱 I’m currently learning **Data Analysis**
+<body>
 
-- 👨‍💻 I am currently working with [HCLTech](HCLTech)
+  <h1>👋 Hello, I'm [Karthikeyan]</h1>
 
-- 💬 Ask me about **SQL, Linux**
+  <p>I am an Application Production Support Analyst with a strong passion for learning and diving into the world of data analytics. I enjoy leveraging data to gain insights and make informed decisions.</p>
 
-- 📫 How to reach me **karthikeyans1411@gmail.com**
+  <h2>🚀 Skills and Expertise</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karthikeyan-s14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan-s14" height="30" width="40" /></a>
-</p>
+  <ul>
+    <li>Application Production Support</li>
+    <li>Data Analysis</li>
+    <li>Tibco Spotfire</li>
+    <li>Collaboration and Teamwork</li>
+    <li>Problem Solving</li>
+  </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+  <h2>📚 Learning Journey</h2>
+
+  <p>My journey involves constantly seeking new challenges and opportunities to enhance my skills. I am currently focused on expanding my knowledge in the field of data analytics, exploring tools like Python.</p>
+
+  <h2>🔗 Connect with Me</h2>
+
+  <ul>
+    <li><i class="fab fa-linkedin social-icons"></i> LinkedIn: https://www.linkedin.com/in/karthikeyan-s14/</li>
+    <li><i class="fas fa-envelope social-icons"></i> Email: karthikeyans1411@gmail.com</li>
+  </ul>
+
+  <h2>🌐 Portfolio</h2>
+
+  <p>Check out my portfolio for more information about my projects and experiences:</p>
+
+  <ul>
+    <li>GitHub: [karthikeyan-subramanian]</li>
+    
+  </ul>
+
+  <h2>🤝 Let's Collaborate!</h2>
+
+  <p>If you're interested in collaboration or have any questions, feel free to reach out. I'm always open to new opportunities and discussions!</p>
+
+</body>
+
+</html>
